@@ -1,9 +1,10 @@
-# How to set two different title bar text for minimized and normal/maximized state of WinForms MetroForm?
+# How to Set Two Different TitleBar Text for Minimized and Normal/Maximized State of WinForms MetroForm?
 
 This sample illustrates how to set two different title bar text for minimized and normal/maximized state of [WinForms MetroForm](https://www.syncfusion.com/winforms-ui-controls/metroform).
 
 In `MetroForm`, by default the text displayed in the title bar will be same when the form is in normal/maximized state and minimized state. You can set different title bar text for normal/maximized state and minimized state by using `Resize` event of the form.
 
+#### C#
 ```C#
 public Form1()
 {
